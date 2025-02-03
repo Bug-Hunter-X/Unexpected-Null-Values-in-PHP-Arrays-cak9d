@@ -1,0 +1,1 @@
+This repository demonstrates a common but easily overlooked error in PHP: improper handling of null values within arrays.  The `bug.php` file shows the erroneous code, while `bugSolution.php` provides the correct approach.  Loose typing in PHP means you must explicitly check for null values to avoid unexpected behavior or errors.
